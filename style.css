@@ -1,0 +1,32 @@
+body{
+background-color: rgba(251, 227, 5, 0.733);
+
+
+}
+
+.heading{
+margin: auto;
+width: 70%;
+text-align: center;
+}
+
+.dice{
+color: rgb(10, 10, 10);
+font-family: cursive;
+font-size: xx-large;
+display: inline-block;
+margin-left:20%;
+text-align: center;
+
+}
+h1 {
+    margin: 30px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 6rem;
+    color: #545d5a;
+  }
+  img{
+
+    width: 80%;
+  }
